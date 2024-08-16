@@ -1,31 +1,5 @@
-# commands for pushing the code over the github
+# Weather chatbot with google dialog flow integrated with telegram
 
-```
-git init
+![Screenshot_telegram_weatherbot](https://github.com/user-attachments/assets/f4e58cd5-b24c-4813-8f23-a73ca00d3b84)
 
-```
-
-```
-git add .
-
-```
-
-```
-git commit -m "updated"
-
-```
-
-```
-git branch -M main
-
-```
-
-```
-git remote add origin https://github.com/sunnysavita10/myweatherbot.git
-
-```
-
-```
-git push -u origin main
-
-```
+The weather chatbot gets live data from open weather map api .The web app was developed using flask and deployed in AWS app runner.
